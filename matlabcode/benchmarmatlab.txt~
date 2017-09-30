@@ -1,0 +1,12 @@
+cgs stopped at iteration 23332 without converging to the desired tolerance 1e-05
+because a scalar quantity became too small or too large to continue computing.
+The iterate returned (number 7805) has relative residual 0.028.
+Elapsed time is 16445.557201 seconds.
+>> tic;Benchmark2(4000,-1,2);toc
+
+
+cgs stopped at iteration 6279 without converging to the desired tolerance 1e-05
+because a scalar quantity became too small or too large to continue computing.
+The iterate returned (number 55) has relative residual 0.048.
+Elapsed time is 1722.179563 seconds.
+tic;Benchmark2(5000,-1,2);toc
